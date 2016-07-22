@@ -1,0 +1,22 @@
+.padre{
+	width: 75%;
+}
+.a, .b, .c{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+.a {
+	background-color: #ED2251;
+}
+.b {
+	background-color: #3A81BA;
+	left: 200px;
+}
+.c {
+	background-color: #8BAB42;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}

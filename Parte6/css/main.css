@@ -1,0 +1,23 @@
+.a, .b, .c, .d{
+	width: 200px;
+	height: 200px;
+}
+.a {
+	background-color: #ED2251;
+}
+.b {
+	background-color: #3A81BA;
+	position: absolute;
+	right: 632px;
+	top: 200px;
+}
+.c {
+	background-color: #8BAB42;
+}
+.d {
+	background-color: #FFFF00;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
